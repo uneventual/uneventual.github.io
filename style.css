@@ -19,6 +19,13 @@ body {
     /* min-width: 480px; */
 }
 
+a {
+    color: unset;
+    font-weight: unset;
+    text-decoration: underline;
+    text-decoration-color: #1FC0FF;
+}
+
 .sidebyside {
     display: flex;
     align-items: center;
