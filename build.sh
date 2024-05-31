@@ -1,0 +1,1 @@
+age -R - -o secrets.html.age secrets.html < recipients 

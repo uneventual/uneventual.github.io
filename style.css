@@ -1,0 +1,79 @@
+* {
+    font-family: 'Monaspace Neon Var', 'Courier New', Courier, monospace;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+
+}
+
+#container {
+    max-width: 720px;
+    height: 50vh;
+    /* min-width: 480px; */
+}
+
+.sidebyside {
+    display: flex;
+    align-items: center;
+}
+
+.heading {
+    padding-bottom: 20px;
+}
+
+#globes_masthead {
+    height: 24pt;
+    /* width: 24pt; */
+}
+
+#masthead {
+    color: #1FC0FF;
+    font-size: 24pt;
+    font-weight: bold;
+    font-style: italic;
+    padding-left: 10px;
+}
+
+.contact_type {
+    font-size: 12pt;
+}
+
+.contact_type_container {
+    color: #8F8F8F;
+}
+
+.blurb {
+
+    font-size: 12pt;
+    color: #8F8F8F;
+    padding-bottom: 5px;
+}
+
+.contact_address {
+    margin-top: 2px; 
+    font-size: 16pt;
+    font-weight: 600;
+    font-style: italic;
+    color: #8F8F8F;
+    margin-bottom: 10px;
+}
+
+#smiley_globe {
+    height: 36px;
+    width: 36px;
+}
+
+.little_svg {
+    max-width: 10pt;
+    max-height: 10pt;
+    padding-right: 5px;
+    color: #8F8F8F;
+    stroke: #8F8F8F;
+}

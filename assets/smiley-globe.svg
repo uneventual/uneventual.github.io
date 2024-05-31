@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="83px" viewBox="0 0 77 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>smiley-globe</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-4" transform="translate(4.0022, -9.0022)" stroke="#1FC0FF">
+            <path d="M83.7804396,63.8917 C83.7812951,41.3680005 65.5229711,23.109628 42.9993314,23.1104836 C20.4756916,23.1113392 2.21599003,41.1177898 2.21513444,63.6414893" id="Oval" stroke-width="6.75" transform="translate(42.9978, 43.5011) rotate(-314) translate(-42.9978, -43.5011)"></path>
+            <polyline id="Path" stroke-width="6.74561081" stroke-linejoin="round" points="45.9977645 44.0021836 29.9977645 55.0021836 45.9977645 55.0021836"></polyline>
+            <line x1="12.4977645" y1="43.6521836" x2="12.4977645" y2="55.3521836" id="Path-2" stroke-width="6.74561081" stroke-linejoin="round"></line>
+            <path d="M12.9977645,66.0021836 C12.9977645,71.0947762 12.9977645,77.0021836 28.9977645,77.0021836" id="Path-3" stroke-width="5.05920811"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-4" stroke="#8F8F8F">
+            <path d="M17.4692113,13.1776921 C17.4964974,8.48950714 13.7197661,4.71122254 9.03349725,4.7386572 C4.34722842,4.76609186 0.526325275,8.53613193 0.498890614,13.2243168" id="Oval" stroke-width="1.39651667" transform="translate(8.9841, 8.9814) rotate(-314) translate(-8.9841, -8.9814)"></path>
+            <g id="Group-3" transform="translate(2.302, 8.8968)">
+                <polyline id="Path" stroke-width="1.39560859" stroke-linejoin="round" points="7.32595843 0.206891359 3.97694886 2.48269631 7.32595843 2.48269631"></polyline>
+                <line x1="0.313969647" y1="0.134479383" x2="0.313969647" y2="2.55510828" id="Path-2" stroke-width="1.39560859" stroke-linejoin="round"></line>
+                <path d="M0.418626196,4.75850126 C0.418626196,5.81211466 0.418626196,7.0343062 3.76763576,7.0343062" id="Path-3" stroke-width="1.04670644"></path>
+            </g>
+        </g>
+    </g>
+</svg>
